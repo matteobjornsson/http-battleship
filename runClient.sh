@@ -1,0 +1,9 @@
+python3 client.py localhost 8080 0 0
+python3 client.py localhost 8080 5 0
+python3 client.py localhost 8080 5 1
+python3 client.py localhost 8080 5 2
+python3 client.py localhost 8080 5 3
+python3 client.py localhost 8080 5 4
+python3 client.py localhost 8080 5 4
+python3 client.py localhost 8080 5 a
+python3 client.py localhost 8080 5 11
